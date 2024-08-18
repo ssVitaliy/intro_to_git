@@ -95,6 +95,15 @@ git reset --hard HEAD^
 
 ## Удаление ветки
 
+Безопасное удаление:
+```sh
+git branch -d <branch_name>
+```
+Жесткое удаление:
+```sh
+git branch -D <branch_name>
+```
+
 ## Переименование ветки
 
 ## Слияние веток
