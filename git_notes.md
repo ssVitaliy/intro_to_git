@@ -91,6 +91,10 @@ git reset --hard HEAD^
 
 ## Создание ветки
 
+```sh
+git branch <branch_name>
+```
+
 Создание ветки с переходом на неё:
 ```sh
 git checkout -b ＜new-branch＞
