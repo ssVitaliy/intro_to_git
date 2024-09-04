@@ -103,7 +103,7 @@ git checkout -b ＜new-branch＞
 ## Переключение между ветками
 
 ```sh
-git switch ＜branch_name＞
+git checkout ＜branch_name＞ # Old style
 ```
 
 ## Удаление ветки
