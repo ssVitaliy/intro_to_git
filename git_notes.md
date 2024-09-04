@@ -130,3 +130,5 @@ git branch -m <branch>
 ```sh
 git merge <branch_name>
 ```
+
+# Удаленные репозитории (remote rep's)
