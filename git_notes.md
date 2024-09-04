@@ -97,4 +97,8 @@ git reset --hard HEAD^
 
 ## Переименование ветки
 
+```sh
+git branch -m <branch>
+```
+
 ## Слияние веток
