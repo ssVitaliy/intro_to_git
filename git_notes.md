@@ -119,4 +119,8 @@ git branch -D <branch_name>
 
 ## Переименование ветки
 
+```sh
+git branch -m <branch>
+```
+
 ## Слияние веток
