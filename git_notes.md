@@ -98,6 +98,10 @@ git checkout -b ＜new-branch＞
 
 ## Переключение между ветками
 
+```sh
+git checkout ＜new-branch＞
+```
+
 ## Удаление ветки
 
 ## Переименование ветки
